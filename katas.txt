@@ -1,4 +1,5 @@
 insertion sort
+binary search (recursive)
+binary search (iterative)
 selection sort
 merge sort
-binary search
