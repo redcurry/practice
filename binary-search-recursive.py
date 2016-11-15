@@ -5,12 +5,6 @@ def binary_search_rec(a, v, low, high):
     if low > high:
         return -1
 
-    if low == high:
-        if (v == a[low]):
-            return low
-        else:
-            return -1
-
     mid = (low + high) // 2
 
     if v < a[mid]:
